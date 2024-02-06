@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411594570706",
+    "project_id": "quicxquiz",
+    "storage_bucket": "quicxquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411594570706:android:4cb7a400b52264a0bb260b",
+        "android_client_info": {
+          "package_name": "com.example.quicxquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMAwWOpcTsJmteprRTmDWaP9Mhulbb_LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
